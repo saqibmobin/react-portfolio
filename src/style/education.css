@@ -1,0 +1,40 @@
+.gradient-underline-ed {
+    padding-bottom: 4px;
+    position: relative;
+    text-decoration: none;
+    margin: auto;
+}
+
+.gradient-underline-ed::after {
+    background: linear-gradient(
+        0.25turn,
+        rgba(255, 249, 34),
+        rgba(255, 0, 128),
+        rgba(56, 2, 155, 0)
+    );
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 6px;
+    width: 180px;
+    margin-bottom: -3px;
+    border-radius: 25px;
+}
+
+.flex-education {
+    background: rgb(194, 229, 156);
+    background: linear-gradient(
+        20deg,
+        rgba(194, 229, 156, 1) 0%,
+        rgba(100, 179, 244, 1) 100%
+    );
+}
+
+.ui-card {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
