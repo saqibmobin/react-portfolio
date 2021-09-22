@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87aee568.chunk.css",
+    "main.js": "/static/js/main.85b0c814.chunk.js",
+    "main.js.map": "/static/js/main.85b0c814.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0f201110.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0f201110.js.map",
+    "static/js/2.843c8a1b.chunk.js": "/static/js/2.843c8a1b.chunk.js",
+    "static/js/2.843c8a1b.chunk.js.map": "/static/js/2.843c8a1b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.87aee568.chunk.css.map": "/static/css/main.87aee568.chunk.css.map",
+    "static/js/2.843c8a1b.chunk.js.LICENSE.txt": "/static/js/2.843c8a1b.chunk.js.LICENSE.txt",
+    "static/media/fastapi-1.6c84dc4e.svg": "/static/media/fastapi-1.6c84dc4e.svg",
+    "static/media/gnu_bash-official.e94d81d5.svg": "/static/media/gnu_bash-official.e94d81d5.svg",
+    "static/media/gunicorn-ar21.b3f42e91.svg": "/static/media/gunicorn-ar21.b3f42e91.svg",
+    "static/media/javascript-vertical.01e81278.svg": "/static/media/javascript-vertical.01e81278.svg",
+    "static/media/linux-ar21.6c13bb55.svg": "/static/media/linux-ar21.6c13bb55.svg",
+    "static/media/mongodb-ar21.b508609b.svg": "/static/media/mongodb-ar21.b508609b.svg",
+    "static/media/nginx-ar21.fbf5b52e.svg": "/static/media/nginx-ar21.fbf5b52e.svg",
+    "static/media/opencv-ar21.670baaf3.svg": "/static/media/opencv-ar21.670baaf3.svg",
+    "static/media/pocoo_flask-ar21.d2e30c5a.svg": "/static/media/pocoo_flask-ar21.d2e30c5a.svg",
+    "static/media/python-logo-inkscape.c64db96d.svg": "/static/media/python-logo-inkscape.c64db96d.svg",
+    "static/media/pytorch-ar21.748f48f0.svg": "/static/media/pytorch-ar21.748f48f0.svg",
+    "static/media/reactjs-ar21.cfbc1fb0.svg": "/static/media/reactjs-ar21.cfbc1fb0.svg",
+    "static/media/tensorflow-ar21.eadcc090.svg": "/static/media/tensorflow-ar21.eadcc090.svg",
+    "static/media/undraw_education_f8ru.405676b5.svg": "/static/media/undraw_education_f8ru.405676b5.svg",
+    "static/media/undraw_programming_2svr.becd1465.svg": "/static/media/undraw_programming_2svr.becd1465.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f201110.js",
+    "static/js/2.843c8a1b.chunk.js",
+    "static/css/main.87aee568.chunk.css",
+    "static/js/main.85b0c814.chunk.js"
+  ]
+}
