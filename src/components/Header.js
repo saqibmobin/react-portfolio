@@ -31,6 +31,10 @@ function Header() {
                     ml={4}
                     variant='solid'
                     colorScheme='gray'
+                    as='a'
+                    aria-label='Github'
+                    target='_blank'
+                    href='https://drive.google.com/file/d/1_nUJqvsdYOOH9k7gc-u0hdl3PBMpCrYV/view?usp=sharing'
                     rightIcon={<FaFileDownload />}
                 >
                     Resume
