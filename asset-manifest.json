@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.87aee568.chunk.css",
-    "main.js": "/static/js/main.97acc57b.chunk.js",
-    "main.js.map": "/static/js/main.97acc57b.chunk.js.map",
+    "main.js": "/static/js/main.0f91df5e.chunk.js",
+    "main.js.map": "/static/js/main.0f91df5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd8682d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd8682d6.js.map",
-    "static/js/2.a4261ba3.chunk.js": "/static/js/2.a4261ba3.chunk.js",
-    "static/js/2.a4261ba3.chunk.js.map": "/static/js/2.a4261ba3.chunk.js.map",
+    "static/js/2.5e9208ba.chunk.js": "/static/js/2.5e9208ba.chunk.js",
+    "static/js/2.5e9208ba.chunk.js.map": "/static/js/2.5e9208ba.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.87aee568.chunk.css.map": "/static/css/main.87aee568.chunk.css.map",
-    "static/js/2.a4261ba3.chunk.js.LICENSE.txt": "/static/js/2.a4261ba3.chunk.js.LICENSE.txt",
+    "static/js/2.5e9208ba.chunk.js.LICENSE.txt": "/static/js/2.5e9208ba.chunk.js.LICENSE.txt",
     "static/media/fastapi-1.6c84dc4e.svg": "/static/media/fastapi-1.6c84dc4e.svg",
     "static/media/gnu_bash-official.e94d81d5.svg": "/static/media/gnu_bash-official.e94d81d5.svg",
     "static/media/gunicorn-ar21.b3f42e91.svg": "/static/media/gunicorn-ar21.b3f42e91.svg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dd8682d6.js",
-    "static/js/2.a4261ba3.chunk.js",
+    "static/js/2.5e9208ba.chunk.js",
     "static/css/main.87aee568.chunk.css",
-    "static/js/main.97acc57b.chunk.js"
+    "static/js/main.0f91df5e.chunk.js"
   ]
 }
