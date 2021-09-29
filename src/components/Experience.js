@@ -30,7 +30,7 @@ function Experience() {
                 direction={isNotSmallerScreen ? 'row' : 'column'}
                 justifyContent='center'
                 alignItems='center'
-                mb={isNotSmallerScreen ? '200px' : '0px'}
+                mb={isNotSmallerScreen ? '10px' : '0px'}
                 p={5}
                 mt={isNotSmallerScreen ? 'none' : 10}
             >

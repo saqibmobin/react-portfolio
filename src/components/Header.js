@@ -34,7 +34,7 @@ function Header() {
                     as='a'
                     aria-label='Github'
                     target='_blank'
-                    href='https://drive.google.com/file/d/1_nUJqvsdYOOH9k7gc-u0hdl3PBMpCrYV/view?usp=sharing'
+                    href='https://drive.google.com/file/d/1Nl-laM43cbS4rT71iiDDXgVU2IrjJ0t4/view?usp=sharing'
                     rightIcon={<FaFileDownload />}
                 >
                     Resume
@@ -81,10 +81,10 @@ function Header() {
                     >
                         Shaikh Saqib Mobin
                     </Text>
-                    <Text color={'gray.500'}>
+                    {/* <Text color={'gray.500'}>
                         Deep Learning Engineer, working on developing HD Maps
                         for India at MapMyIndia.
-                    </Text>
+                    </Text> */}
                 </Box>
                 <Box>
                     <Image

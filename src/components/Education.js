@@ -66,7 +66,7 @@ function Education() {
                         </Text>
                     </Box>
                     <Box className='ui-card' borderWidth='2px' p={10}>
-                        <Heading fontSize='md'>DPS Vidyapeet, Bhadrak</Heading>
+                        <Heading fontSize='md'>DPS Vidyapeeth, Bhadrak</Heading>
                         <Text fontSize='sm'>
                             Senior Secondary Education | 2000-2012
                         </Text>
