@@ -8,9 +8,6 @@ import Footer from './components/Footer.js';
 import './style/app.css';
 
 function App() {
-    const { colorMode, toggleColorMode } = useColorMode();
-    const isDark = colorMode === 'dark';
-
     return (
         <div>
             <container>
