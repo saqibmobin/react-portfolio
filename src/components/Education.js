@@ -17,7 +17,6 @@ function Education() {
         <Flex
             direction='column'
             height={isNotSmallerScreen ? '100vh' : 'none'}
-            // justifyContent='space-evenly'
             className='flex-education'
         >
             <Box
@@ -36,13 +35,7 @@ function Education() {
                 mt={isNotSmallerScreen ? 'none' : 10}
             >
                 <Box width={isNotSmallerScreen ? '512px' : 'none'}>
-                    <Box
-                        className='ui-card'
-                        borderWidth='2px'
-                        p={10}
-                        // mr={10}
-                        mb={5}
-                    >
+                    <Box className='ui-card' borderWidth='2px' p={10} mb={5}>
                         <Heading fontSize='md'>
                             Kalinga Institute of Industrial Technology,
                             Bhubaneshwar
@@ -51,13 +44,7 @@ function Education() {
                             B.Tech in Information Technology | 2015-2019
                         </Text>
                     </Box>
-                    <Box
-                        className='ui-card'
-                        borderWidth='2px'
-                        p={10}
-                        // mr={10}
-                        mb={5}
-                    >
+                    <Box className='ui-card' borderWidth='2px' p={10} mb={5}>
                         <Heading fontSize='md'>
                             ODM Public School, Bhubaneshwar
                         </Heading>

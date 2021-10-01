@@ -10,12 +10,8 @@ function Experience() {
     return (
         <Flex
             direction='column'
-            // bgGradient='linear(to-r, cyan.400, blue.500, purple.600)'
-            // bgGradient='linear(to-r, #c2e59c, #64b3f4)'
-            // alignItems='center'
             height={isNotSmallerScreen ? '100vh' : 'none'}
             className='flex-experience'
-            // justifyContent='space-evenly'
             padding={isNotSmallerScreen ? 0 : 5}
         >
             <Box

@@ -9,8 +9,6 @@ function Footer() {
         <Box
             as='footer'
             role='contentinfo'
-            // mx='auto'
-            // maxW='7xl'
             py='4'
             px={{
                 base: '4',

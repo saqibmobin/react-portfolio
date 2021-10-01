@@ -21,7 +21,6 @@ function Header() {
             className='header'
             height={isNotSmallerScreen ? '100vh' : 'none'}
             width={isNotSmallerScreen ? '1024px' : 'none'}
-            // justifyContent='space-evenly'
             padding={isNotSmallerScreen ? 10 : 10}
             margin='auto'
         >
@@ -50,7 +49,6 @@ function Header() {
                 ></IconButton>
                 <IconButton
                     ml={2}
-                    // mr={5}
                     as='a'
                     aria-label='LinkedIn'
                     target='_blank'
